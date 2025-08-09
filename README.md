@@ -14,7 +14,8 @@ JosephOdari
 - 🧪 I build creative, interactive projects like [DreamSpace](https://github.com/josephodari/dreamspace)  
 - 🎨 Founder of [lume.void](https://instagram.com/lume.void) — an abstract surreal art brand  
 - ⚡ Building [HustleKit](https://github.com/josephodari/hustlekit): a micro-SaaS empire  
-- 🛒 Creator of [Zonoka](https://github.com/josephodari/zonoka): the Amazon for East Africa  
+- 🛒 Creator of [Zonoka](https://github.com/josephodari/zonoka): the Amazon for East Africa
+- [My First Python Project: A Simple Calculator](https://github.com/0ssy/my-first-python-project)
 - 🤖 Exploring AI, automation, and voice-based assistants like Chatty
 
 ---

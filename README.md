@@ -1,61 +1,68 @@
-JosephOdari
-<h1 align="center">Hey, I'm Jose 👋</h1>
-
+<!-- Custom banner -->
 <p align="center">
-  💻 Developer | 🎨 Artist | ⚡ Dream Builder <br>
-  🚀 Building with code, creativity, and AI magic
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I%27m+0ssy!;Student+%7C+Aspiring+Software+Engineer;Building+Innovative+Tech+%F0%9F%9A%80&center=true&size=30" alt="0ssy Banner"/>
+</p>
+
+<h1 align="center">👋 Hey, I'm 0ssy!</h1>
+<p align="center">
+  <em>Student (BBIT) | Aspiring Software Engineer | Tech Creator</em>
 </p>
 
 ---
 
-### 🧠 About Me
+### 🚀 About Me
 
-- 🎓 BBIT student at Strathmore University  
-- 🧪 I build creative, interactive projects like [DreamSpace](https://github.com/josephodari/dreamspace)  
-- 🎨 Founder of [lume.void](https://instagram.com/lume.void) — an abstract surreal art brand  
-- ⚡ Building [HustleKit](https://github.com/josephodari/hustlekit): a micro-SaaS empire  
-- 🛒 Creator of [Zonoka](https://github.com/josephodari/zonoka): the Amazon for East Africa
-- [My First Python Project: A Simple Calculator](https://github.com/0ssy/my-first-python-project)
-- 🤖 Exploring AI, automation, and voice-based assistants like Chatty
+- 🎓 **Student:** Bachelor of Business Information Technology
+- 👨‍💻 **Self-taught Developer:** Building skills in software engineering, AI, and cybersecurity  
+- 🛠️ **Mission:** To blend art, business, and software — building innovative, automated systems that empower people to learn, create, and earn
+- 🤝 **I’m always open to collaborating with passionate people!**
+- 🏀 **Fun facts:** I love basketball and I’m into cars!
 
 ---
 
-### 🚀 Projects I’m Working On
+### 🌟 Main Project
 
-| Project      | Description |
-|-------------|-------------|
-| 🌌 **DreamSpace** | Interactive canvas star map that responds to your mood |
-| 🧠 **HexaCore** | AI-powered hustle system that earns for creators |
-| 📦 **HustleKit** | SaaS bundle platform for creators and online entrepreneurs |
-| 🛍️ **Zonoka** | East African e-commerce platform like Amazon |
-| 🎮 **BBIT Quest** | A game-based app for mastering BBIT topics |
-| 🎨 **lume.void** | Surreal visual art + NFT collections |
+#### 🛒 Zonoka
+> **Zonoka** is my flagship project — an ambitious East African e-commerce platform.  
+> Think Amazon, but even better: local-first, innovative, and ready to empower communities through tech and automation!
+
+[Learn more about Zonoka (repo coming soon!)](#)
 
 ---
 
-### 🛠️ Tech Stack
+### 💡 Other Projects
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Sketchware](https://img.shields.io/badge/Sketchware-Pro-8e44ad?style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![AI Tools](https://img.shields.io/badge/AI-Powered-blueviolet)
+- **HustleKit** – AI-powered SaaS bundle for online hustlers and creators
+- **HexaCore** – Automated, AI-powered hustle with bold, techy, and artistic vibes
+- **lume.void** – Surreal art brand with NFT and merchandise plans
+
+---
+
+### 🧑‍💻 Top Skills & Tech
+
+- **Languages:** Java, JavaScript, Python, HTML, CSS, TypeScript
+- **Frameworks & Tools:** Vue, React Native, Django, Node.js (basic), n8n (automation)
+- **Mobile App Development:** Sketchware Pro, React Native
+- **Content Creation:** CapCut, Canva
+- **Productivity:** Microsoft Office Suite, Google Workspace
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ossy&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ossy&layout=compact&theme=radical" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0ssy&show_icons=true&theme=radical" alt="0ssy's GitHub stats" />
 </p>
 
 ---
 
-### 🌍 Connect with Me
+### 🌐 Connect With Me
 
-- 📧 josephodari29@gmail.com  
-- 🧠 [Portfolio (Coming Soon)](https://hexacore.ai)  
-- 💬 DM me for collaboration, SaaS bundles, or art projects!
+- 📧 **Email:** josephodari29@gmail.com
+  
+
+
+
+---
+
+> “Keep building. The future belongs to creators.” 🚀

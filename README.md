@@ -1,68 +1,171 @@
-<!-- Custom banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I%27m+0ssy!;Student+%7C+Aspiring+Software+Engineer;Building+Innovative+Tech+%F0%9F%9A%80&center=true&size=30" alt="0ssy Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">👋 Hey, I'm 0ssy!</h1>
-<p align="center">
-  <em>Student (BBIT) | Aspiring Software Engineer | Tech Creator</em>
-</p>
+```
+     ██╗ ██████╗ ███████╗███████╗██████╗ ██╗  ██╗     ██████╗ ██████╗  █████╗ ██████╗ ██╗
+     ██║██╔═══██╗██╔════╝██╔════╝██╔══██╗██║  ██║    ██╔═══██╗██╔══██╗██╔══██╗██╔══██╗██║
+     ██║██║   ██║███████╗█████╗  ██████╔╝███████║    ██║   ██║██║  ██║███████║██████╔╝██║
+██   ██║██║   ██║╚════██║██╔══╝  ██╔═══╝ ██╔══██║    ██║   ██║██║  ██║██╔══██║██╔══██╗██║
+╚█████╔╝╚██████╔╝███████║███████╗██║     ██║  ██║    ╚██████╔╝██████╔╝██║  ██║██║  ██║██║
+ ╚════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝     ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```
+$ whoami
+
+I'm Joseph Odari — a Kenyan software
+engineer and BBIT student interested in
+AI, systems engineering, machine
+learning, infrastructure, runtimes,
+and developer technologies.
+
+I like understanding how things work
+underneath the abstractions.
+
+Instead of only asking "How do I use
+this?", I usually end up asking:
+
+  "What would it take to
+   build this myself?"
+
+That question has led me into AI
+systems, engineering platforms,
+runtimes, autonomous systems, trading
+infrastructure, and experimental
+developer tools.
+
+> location      : Nairobi, Kenya
+> education     : BBIT @ Strathmore University
+> focus         : AI / ML / Systems / Infrastructure
+> philosophy    : learn -> build -> break ->
+                   understand -> rebuild
+
+[ AI ] [ SYSTEMS ] [ SOFTWARE ] [ RESEARCH ] [ BUILDING ]
+```
+
+</td>
+<td width="45%" valign="top">
+
+```
+                                                  
+                                                  
+                                                  
+                      .:::.                       
+                  :=+*#####*+-.                   
+               .=*#*+=======+**+:                 
+              =++-::::::::::..:=++:               
+            .**=--==========-::::-*=              
+           .*#==++***++++====----::*=             
+           =#+==+***+++++====--:--:-+:            
+           ++==++*#**++++==+++=-----=:            
+           =+=+*#####**++++****+==-:=:            
+           -+-+####**##*+=+*##*+++-:=.            
+           .+-+##*#**##*=-=*##%+**=:=.            
+          ====++***#*#*+---=+*+=-:----=           
+         .@#==++++++*+==-:----==-:---+%-          
+          *%==+**+++***+====--=====--**:          
+          =#+=+*#*++*#%#***=--===+=--++.          
+           ===*##****##**+==--=+++=---.           
+             =**##%%###***+***++++=-              
+             .+**#%#***++=-=+*++++=.              
+              .+*########***++++++.               
+               -#****##**++==++*+=                
+               =#%%#######******++:               
+            .:=##%%%#%%%%%#*****+++=+:            
+        .-=*%#+#%#####%%##*****+**+=#%**=-:       
+    .-+*#%%%@#**#%%###%%###*****+++=*#*#%##*+-.   
+ :=*##%%%%%%@%####%%%%#########**+++*#*#####%#*=:.
+*#####%%###%%%#####%%%%%%%#******+++#####*#%%##***
+############%%%##########%%#+++++++*#**#***#%%#**+
+############%%%######%####%@%*+++++###*#***#%##**+
+###########%#%%#**###@%####%%%%#*+**#######%##%%%#
+###%#######%#%%%*#%@%#%####%%##%%#***#####%%##%%%%
+###%%%#######%%%%%##%%#****##*###%#**#####%###%%%%
+####%%###########%###%%****#**###%%*+***#%%#*#%%%%
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🚀 About Me
+### `> currently_building`
 
-- 🎓 **Student:** Bachelor of Business Information Technology
-- 👨‍💻 **Self-taught Developer:** Building skills in software engineering, AI, and cybersecurity  
-- 🛠️ **Mission:** To blend art, business, and software — building innovative, automated systems that empower people to learn, create, and earn
-- 🤝 **I’m always open to collaborating with passionate people!**
-- 🏀 **Fun facts:** I love basketball and I’m into cars!
+```
+PROMETHEUS    Engineering Intelligence Platform
+MECOS         Experimental AI / cognitive system
+TRS           Runtime / systems infrastructure
+IGGY          Algorithmic trading systems
+```
 
----
+| Project | Description |
+|---|---|
+| **Prometheus** | Engineering intelligence platform |
+| **MECOS** | Experimental AI / cognitive system |
+| **TRS** | Runtime & systems infrastructure |
+| **IGGY** | Algorithmic trading systems |
+| — | AI / ML infrastructure |
+| — | Experimental developer systems |
 
-### 🌟 Main Project
+```
+$ echo $PHILOSOPHY
+"Don't just use the system. Understand it. Build it."
 
-#### 🛒 Zonoka
-> **Zonoka** is my flagship project — an ambitious East African e-commerce platform.  
-> Think Amazon, but even better: local-first, innovative, and ready to empower communities through tech and automation!
-
-[Learn more about Zonoka (repo coming soon!)](#)
-
----
-
-### 💡 Other Projects
-
-- **HustleKit** – AI-powered SaaS bundle for online hustlers and creators
-- **HexaCore** – Automated, AI-powered hustle with bold, techy, and artistic vibes
-- **lume.void** – Surreal art brand with NFT and merchandise plans
-
----
-
-### 🧑‍💻 Top Skills & Tech
-
-- **Languages:** Java, JavaScript, Python, HTML, CSS, TypeScript
-- **Frameworks & Tools:** Vue, React Native, Django, Node.js (basic), n8n (automation)
-- **Mobile App Development:** Sketchware Pro, React Native
-- **Content Creation:** CapCut, Canva
-- **Productivity:** Microsoft Office Suite, Google Workspace
+$ ./build.sh
+████████████████████████████████████████████████████ 100%
+```
 
 ---
 
-### 📈 GitHub Stats
+### `> philosophy`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0ssy&show_icons=true&theme=radical" alt="0ssy's GitHub stats" />
-</p>
+```
+learn
+  ↓
+build
+  ↓
+break
+  ↓
+understand
+  ↓
+rebuild
+  ↓
+ship
+```
+
+I don't want to just collect technologies.
+I want to understand systems deeply enough to create new ones.
 
 ---
 
-### 🌐 Connect With Me
+### `> stack`
 
-- 📧 **Email:** josephodari29@gmail.com
-  
+| Domain | Technologies |
+|---|---|
+| **AI / ML** | Python · PyTorch · Model Systems |
+| **Systems** | Rust · C · C++ · Go · Zig |
+| **Web** | TypeScript · JavaScript · HTML · CSS |
+| **Backend** | Python · Java · APIs · Databases |
+| **Infrastructure** | Linux · Shell · CMake · PowerShell |
+| **GPU** | CUDA |
 
-
+<sub>Repos span a broader stack per-project — Prometheus: Python, Rust, TypeScript, Go, C, Zig, CUDA and more. TRS Runtime: Python, Rust, Go, C++, Java, Kotlin, Swift, TypeScript, C# and others. MECOS: heavily Python-based.</sub>
 
 ---
 
-> “Keep building. The future belongs to creators.” 🚀
+<div align="center">
+
+**LOCATION** Nairobi, Kenya &nbsp;·&nbsp; **UNIVERSITY** Strathmore University &nbsp;·&nbsp; **INTERESTS** AI · ML · Systems · Cybersecurity · Infrastructure
+
+[![GitHub followers](https://img.shields.io/github/followers/0ssy?style=flat-square&color=blue)](https://github.com/0ssy?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=0ssy&style=flat-square&color=blue)](https://github.com/0ssy)
+
+**[📂 All Repositories](https://github.com/0ssy?tab=repositories)** · **[👤 Profile](https://github.com/0ssy)**
+
+</div>
